@@ -1,0 +1,4 @@
+[
+  {"type": "url", "icon": "octoface", "url":"http://github.com", "tooltip":"Github Page",  "iconset": ""},
+  {"type": "button", "icon": "document", "callback": "application:new-file","tooltip":"New File", "iconset":"ion" }
+]
